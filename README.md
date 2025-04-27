@@ -16,7 +16,7 @@ In this project, we work with the Dry Bean Dataset to perform:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dry-bean-classification.git
+git clone https://github.com/a-elderawi/dry-bean-classification.git
 cd dry-bean-classification
 ```
 
