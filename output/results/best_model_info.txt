@@ -1,0 +1,5 @@
+Best Performing Model:
+Classifier: Logistic Regression
+Data Representation: raw
+Accuracy: 0.9204
+F1 Score: 0.9206
